@@ -1,0 +1,4 @@
+id,title,lon,lat,description,wikiurl,picture,time
+1,Acropolis Museum,23.7283,37.9685,Modern museum near the Acropolis in Athens showcasing ancient artifacts and sculptures from the Acropolis.,https://en.wikipedia.org/wiki/Acropolis_Museum,pictures/acropolis_museum.png,10
+2,Parthenon,23.7268,37.9715,Iconic ancient temple on the Acropolis in Athens and was built in the 5th century BCE dedicated to the goddess Athena.,https://en.wikipedia.org/wiki/Parthenon,pictures/parthenon.png,2
+3,Herodion,23.724495,37.970585,Historic amphitheater on the southern slope of the Acropolis in Athens and was built in 161 AD now a venue for concerts and events.,https://en.wikipedia.org/wiki/Odeon_of_Herodes_Atticus,pictures/herodion.png
